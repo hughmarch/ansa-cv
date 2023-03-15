@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
+numpy = "*"
+scikit-image = "*"
 
 [dev-packages]
 
