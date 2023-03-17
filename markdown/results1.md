@@ -1,0 +1,3 @@
+There is a noticeable difference between the radii between these experiments, and individiual sites stay consistent with the average. For the higher viscosity experiment, the radii were consistently lower at the final time frame. What's also interesting is the experiments start off with a small difference in average radii, then diverge as the experiment continues.
+
+There is more variance in intensities for the sites at the higher viscosity experiment, and some of these sites have a significantly lower intensity than at the lower viscosity.

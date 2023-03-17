@@ -9,3 +9,5 @@ We have run two RPA experiments on the glass slides at different PEG concentrati
 <li>1.5% PEG (standard amount of PEG in RPA reactions)</li>
 <li>6.78% PEG (additional PEG added to RPA reaction)</li>
 </ul>
+
+To record each experiment, we capture a grayscale image every second for 900 seconds. Check out the raw experiment data and see how nucleation sites grow over time for the two experiments:
