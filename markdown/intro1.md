@@ -1,7 +1,6 @@
 ## Nucleation Site Analysis for HIV Viral Load Monitoring
 
-<a href="https://colab.research.google.com/drive/1mYzdAZxV_2QLH03DIShQht4jxnQqah6l?usp=sharing">Notebook</a>
-<a href="https://youtu.be/trJjYH5NwIY">Video Presentation</a>
+<a href="https://youtu.be/trJjYH5NwIY">Video Presentation</a> | <a href="https://colab.research.google.com/drive/1mYzdAZxV_2QLH03DIShQht4jxnQqah6l?usp=sharing">Notebook</a>
 
 Thanks to Dr. Ben Sullivan, Cole Martin, and Dr. Jonathan D. Posner
 
