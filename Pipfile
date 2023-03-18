@@ -7,7 +7,7 @@ name = "pypi"
 streamlit = "*"
 numpy = "*"
 scikit-image = "*"
-opencv-python = "*"
+opencv-python-headless = "*"
 
 [dev-packages]
 
