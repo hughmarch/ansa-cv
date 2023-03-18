@@ -1,0 +1,5 @@
+In this project, we build a computer vision model to analyze the behavior of nucleation sites to drive the development of a POC diagnostic test capable of measuring higher HIV viral loads. This model is capable of finding quantitative measurements for the radius and intensity of nucleation sites, which are vital to the development of such a diagnostic test.
+
+To design this diagnostic test, we will use this model to analyze the effects PEG as well as other polymers with different atomic weights have on viscosity and the formation of nucleation sites. We will also measure the effects of different gap thicknesses between the two glass slides, as decreasing thickness will increase area. We will use this model to find the optimal gap thickness that maximizes the area where sites can form.
+
+Ultimately, this tool allows us to better understand the behavior of these nucleation sites and develop more capable POC diagnostic tests to improve global health outcomes.

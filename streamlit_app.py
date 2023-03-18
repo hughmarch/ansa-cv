@@ -30,14 +30,14 @@ def background_sub(img):
 def box_blur(img):
   return model.averageBlur(img)
 
-st.markdown(read_markdown_file("markdown/intro1.md"))
+st.markdown(read_markdown_file("markdown/intro1.md"), unsafe_allow_html=True)
 st.image("figs/hivstats.png")
 st.markdown(caption("Data from WHO"), unsafe_allow_html=True)
-st.markdown(read_markdown_file("markdown/intro2.md"))
+st.markdown(read_markdown_file("markdown/intro2.md"), unsafe_allow_html=True)
 st.markdown(caption("Viral load in this work is measured as number of viral DNA " +
                     "copies per reaction, abbreviated as \"cps/rxn\" or just \"cps.\""), unsafe_allow_html=True)
 st.image("figs/membranespots.png")
-st.markdown(caption("RPA Performed on fiber membrane. At lower copy numbers (<3000cps), the number of spots " +
+st.markdown(caption("RPA Performed on fiber membrane<sup>1</sup>. At lower copy numbers (<3000cps), the number of sites " +
                     "to the number of copies follows a power-law relationship. Quantification becomes difficult " +
                     "at higher copy numbers."), unsafe_allow_html=True)
 
@@ -160,3 +160,8 @@ st.markdown(caption("Measurements of individual sites (dotted lines) and average
 
 st.markdown(read_markdown_file("markdown/results1.md"))
 
+st.header("Next steps")
+st.markdown(read_markdown_file("markdown/nextsteps.md"), unsafe_allow_html=True)
+
+st.header("References")
+st.markdown(read_markdown_file("markdown/references.md"), unsafe_allow_html=True)
